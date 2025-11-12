@@ -1,4 +1,4 @@
-# 🧪 Cybersecurity Lab Report
+# 🧪 Security Monitoring & SIEM Fundamentals: Hack The Box
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-blue)
@@ -55,38 +55,4 @@ The objective of this lab is to gain hands-on experience with **SIEM operations,
 ## **6. Findings and Results**
 - Successfully visualized critical Windows security events in Kibana.  
 - Detected anomalies in failed logons and RDP activity patterns.  
-- Mapped suspicious events to MITRE ATT&CK techniques for context-aware threat detection.  
-- SOC triage workflow simulation demonstrated structured escalation and alert handling.  
-
----
-
-## **7. Analysis and Interpretation**
-The lab highlighted the **value of proactive monitoring and structured SOC workflows**. MITRE ATT&CK mapping contextualized the attack techniques, while KQL queries allowed rapid filtering and correlation of large volumes of log data. This approach reinforced the importance of **real-time detection and escalation** in operational cybersecurity environments.
-
----
-
-## **8. Technical Skills and Competencies Demonstrated**
-- SOC alert triage and escalation  
-- SIEM dashboard creation and KQL query building  
-- Threat detection using log analysis  
-- Mapping alerts to MITRE ATT&CK techniques  
-- Practical SOC workflow implementation  
-
----
-
-## **9. Lessons Learned**
-- Structured SIEM monitoring is critical for identifying suspicious activity.  
-- Accurate alert classification reduces false positives and improves SOC efficiency.  
-- MITRE ATT&CK mapping provides actionable intelligence for threat analysis.  
-- Hands-on experience reinforces theoretical concepts in a real-world environment.
-
----
-
-## **10. Conclusion**
-The Hack The Box Security Monitoring & SIEM Fundamentals lab provided practical experience in **SIEM operations, SOC alert triage, and threat detection**. Students gained expertise in monitoring, detection, and escalation workflows, with technical skills aligned to established cybersecurity frameworks and threat intelligence practices.
-
----
-
-## **11. References**
-- MITRE ATT&CK Framework. *Tactics, Techniques, and Procedures (TTPs).* 2025.  
-- Hack The Box Academy. *Security Monitoring & SIEM Fundamentals.* 2025.
+- Mapped suspicious events to MITRE ATT&CK techniques for
