@@ -1,4 +1,4 @@
-# 🔐 Implementing a Risk Mitigation Framework — Hands-On Lab Experience
+# 🔐 Implementing a Risk Mitigation Framework 
 
 **Author:** Jair Maldonado  
 **Course:** *Managing Risk in Information Systems (3e) — Lab 08*  
