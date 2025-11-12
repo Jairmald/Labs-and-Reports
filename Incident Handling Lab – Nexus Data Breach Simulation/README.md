@@ -1,7 +1,7 @@
-#  Incident Handling Simulation: Nexus Data Breach
+# Incident Handling Simulation: Nexus Data Breach
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Framework](https://img.shields.io/badge/Framework-NIST%20800-61%20%C%20MITRE%20ATT%26CK-blue)
+![Framework](https://img.shields.io/badge/Framework-NIST%20800-61%20%7C%20MITRE%20ATT%26CK-blue)
 ![Tools](https://img.shields.io/badge/Tools-SIEM%2C%20Sysmon%2C%20TheHive%2C%20CyberChef%2C%20VirusTotal-orange)
 
 ---
@@ -18,7 +18,7 @@ The objective of this lab is to gain hands-on experience with **incident respons
 - Apply the **incident response lifecycle** (NIST SP 800-61) in a SOC environment.  
 - Conduct **threat hunting and SIEM log analysis** using Wazuh and Sysmon.  
 - Investigate **credential compromises and web application vulnerabilities**.  
-- Perform **forensic analysis and artifact remediation**.  
+- Perform **post-incident forensic analysis and artifact remediation**.  
 - Map attacker techniques to **MITRE ATT&CK** for contextual threat intelligence.
 
 ---
