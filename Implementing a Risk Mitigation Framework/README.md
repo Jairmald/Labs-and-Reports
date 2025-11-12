@@ -1,4 +1,4 @@
-# 🧪 Implementing a Risk Mitigation Framework
+#  Implementing a Risk Mitigation Framework
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-ISO%2FIEC%2027002-blue)
