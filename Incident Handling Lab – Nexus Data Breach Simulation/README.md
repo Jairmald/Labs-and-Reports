@@ -1,7 +1,7 @@
 #  Incident Handling Simulation: Nexus Data Breach
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Framework](https://img.shields.io/badge/Framework-NIST%20800-61%20%7C%20MITRE%20ATT%26CK-blue)
+![Framework](https://img.shields.io/badge/Framework-NIST%20800-61%20%C%20MITRE%20ATT%26CK-blue)
 ![Tools](https://img.shields.io/badge/Tools-SIEM%2C%20Sysmon%2C%20TheHive%2C%20CyberChef%2C%20VirusTotal-orange)
 
 ---
