@@ -1,4 +1,4 @@
-# 🛡️ Incident Handling Lab – Nexus Data Breach Simulation
+#  Incident Handling Lab – Nexus Data Breach Simulation
 
 ![Lab Report](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-NIST%20SP%20800--61-blue)
